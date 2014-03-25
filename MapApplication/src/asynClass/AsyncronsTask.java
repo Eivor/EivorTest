@@ -58,6 +58,6 @@ public class AsyncronsTask {
 	}
 	
 	
-	public static void main(){}
+	
 
 }
