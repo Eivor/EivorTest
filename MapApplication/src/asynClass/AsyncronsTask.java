@@ -56,5 +56,8 @@ public class AsyncronsTask {
 
 		return builder.toString();
 	}
+	
+	
+	public static void main(){}
 
 }
